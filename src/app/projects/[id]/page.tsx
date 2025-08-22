@@ -229,7 +229,7 @@ export default function ProjectPage({ params }: ProjectPageProps) {
                 Like This Project?
               </h3>
               <p className="text-gray-600 dark:text-gray-400 mb-4 text-sm">
-                Lets discuss your next project!
+                Let&apos;s discuss your next project!
               </p>
               <Link href="/#contact">
                 <motion.button
